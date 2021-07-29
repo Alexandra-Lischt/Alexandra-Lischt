@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! 😄
 
-<!--
-**Alexandra-Lischt/Alexandra-Lischt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+  <a href="https://github.com/Alexandra-Lischt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandra-lischt&show_icons=true&title_color=9a00f7&icon_color=9a00f7&bg_color=0d1117&include_all_commits=true&text_color=f0f6fc#count_private=true"/>
+</div>
+<br>
+<img height="25"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img height="25"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img height="25"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
