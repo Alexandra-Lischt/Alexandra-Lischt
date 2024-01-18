@@ -1,9 +1,5 @@
 ### Hi there! 😄
 
- <div>
-  <a href="https://github.com/Alexandra-Lischt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandra-lischt&show_icons=true&title_color=ff5800&icon_color=ff5800&bg_color=0d1117&include_all_commits=true&text_color=f0f6fc#count_private=true"/>
-</div>
 <br>
 <img height="25"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
